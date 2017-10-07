@@ -1,6 +1,6 @@
 # webpack
 
-> A simple Vue 2.0 + Vuetify Webpack & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to wait for an official 2.0 webpack template.
+> A simple Vue 2.0 + Vuetify + Webpack & `vue-loader` setup for quick prototyping. Note this template is not suitable for production - for that you may want to wait for an official 2.0 webpack template.
 
 ### Usage
 
