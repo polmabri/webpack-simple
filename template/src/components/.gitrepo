@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/maurop123/templates-common.git
+	branch = subrepo/components
+	commit = ac9fba4603509cc336f29e85788feef3b7895f16
+	parent = 4ff9076c513c05321b0ff6307aedb2056e395f12
+	cmdver = 0.3.1
